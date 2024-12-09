@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisangelo.ThisIsAngelo" />
 
-<h1 align="center">Hellow 👋😸, I'm Rehantu####</h1>
+<h1 align="center">Hellow 👋😸, I'm Rehantu</h1>
 
 <h3 align="center">A Website Development Enthusiast from Indonesia</h3>
 
