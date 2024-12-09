@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-<a href='https://buymeacoffee.com' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://saweria.co/rehantu' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 </div>
 
 <br/>
