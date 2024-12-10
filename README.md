@@ -48,7 +48,7 @@
   <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
 </a>
 <br/>
-<hr/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -58,7 +58,6 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
