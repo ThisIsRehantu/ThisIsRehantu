@@ -40,15 +40,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,redux,vite,php,mysql,postgres,prisma" />
     <img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai,git,github,vercel" /><br>
 </div>
-### 🏆 GitHub Trophies
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🏆 GitHub Trophies
+
 
 <a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
 </a>
 <br/>
 <hr/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -58,7 +60,7 @@
 </div>
 
 <hr/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
