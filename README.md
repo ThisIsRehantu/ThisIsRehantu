@@ -1,4 +1,5 @@
 > [![View count](https://visitcount.itsvg.in/api?id=thisisrehantu&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thisisrehantu)
+
 > <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
@@ -39,7 +40,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,redux,vite,php,mysql,postgres,prisma" />
     <img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai,git,github,vercel" /><br>
 </div>
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
+</a>
 <br/>
 <hr/>
 
