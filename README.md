@@ -1,6 +1,6 @@
 > [![View count](https://visitcount.itsvg.in/api?id=thisisrehantu&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thisisrehantu)
 
-> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
 
@@ -33,7 +33,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <hr/>
- 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
