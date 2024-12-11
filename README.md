@@ -1,8 +1,7 @@
 > [![View count](https://visitcount.itsvg.in/api?id=thisisrehantu&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thisisrehantu)
+> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
 
 <h1 align="center">Hellow 👋😸, I'm Rehantu</h1>
 
