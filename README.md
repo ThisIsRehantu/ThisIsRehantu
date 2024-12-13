@@ -8,10 +8,12 @@
 
 <h3 align="center">A Website Development Enthusiast from Indonesia</h3>
 
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ 
 <br/>
 
 <div align="center">
- 
+
  🌱 I’m currently learning *Next.js, Redux*
 
 💬 Ask me about *Next.js, React, Tailwind*
