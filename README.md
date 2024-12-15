@@ -146,7 +146,12 @@
 <br/>
 
 <div align="center">
+ <img height="150" width="150" src="WEBP/left.webp"/>
 <a href='https://saweria.co/rehantu' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<img height="150" width="150" src="WEBP/right.webp"/>
+
 </div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
