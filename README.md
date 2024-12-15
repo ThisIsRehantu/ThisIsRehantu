@@ -1,6 +1,10 @@
 > [![View count](https://visitcount.itsvg.in/api?id=thisisrehantu&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=thisisrehantu)
 > <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
 ![GitHub stars](https://img.shields.io/github/stars/thisisrehantu?style=social)
+![𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜](https://img.shields.io/github/followers/thisisrehantu?label=Followers&style=social)
+<a href="https://github.com/sponsors/thisisrehantu"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
