@@ -7,8 +7,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hellow 👋😸, I'm Rehantu
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
+<h1 align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+ Hellow 👋😸, I'm Rehantu
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</h1>
 
 <h3 align="center">A Website Development Enthusiast from Indonesia</h3>
 
