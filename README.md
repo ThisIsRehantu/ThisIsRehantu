@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisrehantu.ThisIsRehantu" />
-<img algin="left" src="https://img.shields.io/github/stars/thisisrehantu?style=social" />
-<img algin="left"
-src="https://img.shields.io/github/followers/thisisrehantu?label=Followers&style=social" />
+
+<div align="left">
+  <img src="https://img.shields.io/github/stars/thisisrehantu?style=social" />
+  <img src="https://img.shields.io/github/followers/thisisrehantu?label=Followers&style=social" />
+</div>
+
 <br><br>
 
 
